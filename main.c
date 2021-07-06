@@ -10,6 +10,11 @@ static void bel(void)
 
 }
 
+static void spa(void)
+{
+   
+}
+
 int main()
 {
    ita();
